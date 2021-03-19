@@ -55,31 +55,26 @@
 
 
 
-### 量化2021-(3)
+#### 量化2021-(3)
 
-| Title                                                        | Venue  | Type |     Notion      |
-| :----------------------------------------------------------- | :----: | :--: | :-------------: |
-| Any-Precision Deep Neural Networks                           | `AAAI` |      |                 |
-| Post-training Quantization with Multiple Points  Mixed Precision without Mixed Precision | `AAAI` |      | Mixed Precision |
-| CPT:Efficient deep neural network training via cyclic precision | `ICLR` |      |                 |
+ Any-Precision Deep Neural Networks                             `AAAI` 
+ Post-training Quantization with Multiple Points  Mixed Precision without Mixed Precision | `AAAI`   `Mixed Precision`
+ CPT:Efficient deep neural network training via cyclic precision   `ICLR`                  
 
 
-### 量化 2020-(14)
+#### 量化 2020-(14)
 
-| Title                                                        |      Venue       | Type |      Notion      |
-| :----------------------------------------------------------- | :--------------: | :--: | :--------------: |
-| Precision Gating Improving Neural Network Efficiency with Dynamic Dual-Precision Activations |      `ICLR`      |      |                  |
-| **Post-training Quantization** with Multiple Points  Mixed Precision without Mixed Precision |      `ICML`      |      |                  |
-| Towards Unified INT8 Training for Convolutional Neural Network |      `CVPR`      |      |    商汤bp+qat    |
-| APoT-addive powers-of-two quantization an efficient non-uniform discretization for neural networks |      `ICLR`      |      | 非线性量化scheme |
-| **Post-Training** **Piecewise Linear Quantization for Deep Neural Networks** | `ECCV`**(oral)** |      |                  |
-| Training Quantized Neural Networks With a Full-Precision Auxiliary Module. | `CVPR`**(oral)** |      |                  |
-| MCUNet: Tiny Deep Learning on IoT Devices                    |    `NeurIPS`     |      |                  |
-| HAWQ-V2 Hessian Aware trace-Weighted Quantization of Neural Networks |    `NeurIPS`     |      |                  |
-| HAWQ-V3: Dyadic Neural Network Quantization                  |       `-`        |      |                  |
-| Subtensor Quantization for Mobilenets                        |       `-`        |      |    Mobilenets    |
-| Generative Low-bitwidth Data Free Quantization               |      `ECCV`      |      |       GAN        |
-
+ Precision Gating Improving Neural Network Efficiency with Dynamic Dual-Precision Activations       `ICLR`     
+ **Post-training Quantization** with Multiple Points  Mixed Precision without Mixed Precision      `ICML`     
+ Towards Unified INT8 Training for Convolutional Neural Network |      `CVPR`        `商汤bp+qat`   
+ APoT-addive powers-of-two quantization an efficient non-uniform discretization for neural networks       `ICLR`             `非线性量化scheme`
+ **Post-Training** **Piecewise Linear Quantization for Deep Neural Networks**  `ECCV`**(oral)** 
+ Training Quantized Neural Networks With a Full-Precision Auxiliary Module  `CVPR`**(oral)**
+ MCUNet: Tiny Deep Learning on IoT Devices                        `NeurIPS`    
+ HAWQ-V2 Hessian Aware trace-Weighted Quantization of Neural Networks     `NeurIPS`  
+ HAWQ-V3: Dyadic Neural Network Quantization                 
+ Subtensor Quantization for Mobilenets                               `-`                 `Mobilenets`
+ Generative Low-bitwidth Data Free Quantization                     `ECCV`                   `GAN `       
 
 ---
 
