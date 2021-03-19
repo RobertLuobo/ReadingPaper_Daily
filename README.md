@@ -49,9 +49,9 @@
 
 ###  稀疏化
 
-| Year | Title                                                        | Venue  | Notion |
-| ---- | ------------------------------------------------------------ | ------ | ------ |
-| 2019 | SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity Through Low-Bit Quantization | `CVPR` |        |
+
+
+ 2019  SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity Through Low-Bit Quantization  `CVPR` 
 
 
 
@@ -202,16 +202,3 @@
 | **Binaryconnect** Training deep neural networks with binary weights during propagations | `NeurIPS` |      |          超低bit          |
 | **INQ**-Incremental network quantization Towards lossless cnns with low-precision weight |  `ICLR`   |      |          `intel`          |
 | Convolutional Neural Networks using Logarithmic Data Representation |  `ICML`   |      |          scheme           |
-
-
-
-
-
-
-
-
-
-
-
-
-
