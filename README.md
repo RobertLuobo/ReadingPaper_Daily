@@ -44,6 +44,21 @@
 `nsdi`   `sigcomm`   `osdi`   `sosp`   `sigmod`   `mobicom`   `sosp`   `ATC`   `MLsys`  
 
   
+  2021:
+  Diversifying Sample Generation for Accurate Data-Free Quantization  
+  Learnable Companding Quantization for Accurate Low-bit Neural Networks   
+  Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation  
+  You Only Look One-level Feature  
+  Fine-grained Angular Contrastive Learning with Coarse Labels(😮oral)     
+使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。   
+UP-DETR: Unsupervised Pre-training for Object Detection with Transformers(oral)   
+  ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network  
+  RepVGG: Making VGG-style ConvNets Great Again   
+  Manifold Regularized Dynamic Network Pruning   
+  Fast and Accurate Model Scaling   
+  General Instance Distillation for Object Detection   
+  Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection  
+  
 
 #####  稀疏化
 
