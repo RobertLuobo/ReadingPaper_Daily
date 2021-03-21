@@ -57,7 +57,11 @@
   9、Manifold Regularized Dynamic Network Pruning   
   10、Fast and Accurate Model Scaling   
   11、General Instance Distillation for Object Detection   
-  12、Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection  
+  12、Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection   
+  13、Sparse R-CNN: End-to-End Object Detection with Learnable Proposals  
+  14、Relation Networks for Object Detection  
+  15、elationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder   
+  16、Dert：End-to-End Object Detection with Transformers    
   
 
 #####  稀疏化
