@@ -46,6 +46,7 @@
   
   2021:   
   1、Diversifying Sample Generation for Accurate Data-Free Quantization  
+  2、BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction
   2、Learnable Companding Quantization for Accurate Low-bit Neural Networks   
   3、Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation  
   4、You Only Look One-level Feature  
