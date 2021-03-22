@@ -44,26 +44,38 @@
 `nsdi`   `sigcomm`   `osdi`   `sosp`   `sigmod`   `mobicom`   `sosp`   `ATC`   `MLsys`  
 
   
-  2021:   
-  1、Diversifying Sample Generation for Accurate Data-Free Quantization  
-  2、BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction
-  2、Learnable Companding Quantization for Accurate Low-bit Neural Networks   
-  3、Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation  
-  4、You Only Look One-level Feature  
-  5、Fine-grained Angular Contrastive Learning with Coarse Labels(😮oral)     
-使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。   
-  6、UP-DETR: Unsupervised Pre-training for Object Detection with Transformers(oral)   
-  7、ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network  
-  8、RepVGG: Making VGG-style ConvNets Great Again   
-  9、Manifold Regularized Dynamic Network Pruning   
-  10、Fast and Accurate Model Scaling   
-  11、General Instance Distillation for Object Detection   
-  12、Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection   
-  13、Sparse R-CNN: End-to-End Object Detection with Learnable Proposals  
-  14、Relation Networks for Object Detection  
-  15、elationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder   
-  16、Dert：End-to-End Object Detection with Transformers    
-  
+ ####  2021:
+
+1. Diversifying Sample Generation for Accurate Data-Free Quantization  
+2. BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction
+3. Learnable Companding Quantization for Accurate Low-bit Neural Networks   
+4. UMEC: Unified Model and Embedding Compression for Efficient Recommendation Systems
+5. Distribution Adaptive INT8 Quantization for Training CNNs
+6. Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation  
+7. You Only Look One-level Feature  
+8. Probabilistic two-stage detection
+9. General Instance Distillation for Object Detection   
+10. Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection   
+11. Sparse R-CNN: End-to-End Object Detection with Learnable Proposals  
+12. Relation Networks for Object Detection  
+13. RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder   
+14. Weighted boxes fusion: Ensembling boxes from different object detection models
+15. Dert：End-to-End Object Detection with Transformers    
+16. Fine-grained Angular Contrastive Learning with Coarse Labels(😮oral)     使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。   
+17. UP-DETR: Unsupervised Pre-training for Object Detection with Transformers(oral)   
+18. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network  
+19. RepVGG: Making VGG-style ConvNets Great Again   
+20. Revisiting Dynamic Convolution via Matrix Decomposition
+21. An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection
+22. CenterMask : Real-Time Anchor-Free Instance Segmentation
+23. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing
+24. Manifold Regularized Dynamic Network Pruning   
+25. Fast and Accurate Model Scaling   
+26. Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+27. Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+28. On Implicit Filter Level Sparsity in Convolutional Neural Networks
+
+
 
 #####  稀疏化
 
