@@ -80,6 +80,7 @@
 32.Going deeper with Image Transformers  2021
 33. Batch Normalization Biases Residual Blocks Towards the Identity Function in Deep Networks NeurIPS 2020
 34.Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting  AAAI2021
+35.WaveNet
 
 #####  稀疏化
 
