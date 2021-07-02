@@ -74,8 +74,12 @@
 26. Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
 27. Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
 28. On Implicit Filter Level Sparsity in Convolutional Neural Networks
-
-
+29.Skip-Convolutions for Efficient Video Processing CVPR2021
+30.FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION ICLR 2019
+31.ReZero is All You Need: Fast Convergence at Large Depth  2020.May
+32.Going deeper with Image Transformers  2021
+33. Batch Normalization Biases Residual Blocks Towards the Identity Function in Deep Networks NeurIPS 2020
+34.Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting  AAAI2021
 
 #####  稀疏化
 
